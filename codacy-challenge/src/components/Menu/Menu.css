@@ -1,0 +1,26 @@
+.Menu {
+    width: 79px;
+    height: 100%;
+    background: #F1FAFF 0% 0% no-repeat padding-box;
+    box-shadow: 1px 0px 0px #E5ECF5;
+    float: left;
+    font-size: 11px;
+    color: #4C6083;
+    opacity: 1;
+}
+
+.SpanTeam {
+    display: inline-block;
+    margin-top: 18.61px;
+}
+
+.DivTeam {
+    width: 79px;
+    height: 44px;
+    border-bottom: 1px #E5ECF5 solid;
+    text-align: center;
+}
+
+.BorderBot {
+    border-bottom: 1px #E5ECF5 solid;
+}

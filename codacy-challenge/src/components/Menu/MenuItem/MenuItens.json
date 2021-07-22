@@ -1,0 +1,30 @@
+{
+    "dash": {
+        "src": "../images/Group 100.svg",
+        "label": "Dashboard"
+    },
+    "commits": {
+        "src": "../images/Group 86.svg",
+        "label": "Commits"
+    },
+    "files": {
+        "src": "../images/Group 94.svg",
+        "label": "Files"
+    },
+    "issues": {
+        "src": "../images/Group 96.svg",
+        "label": "Issues"
+    },
+    "pullRequests": {
+        "src": "../images/Group 98.svg",
+        "label": "Pull Requests"
+    },
+    "codePatterns": {
+        "src": "../images/Group 101.svg",
+        "label": "Code patterns"
+    },
+    "settings": {
+        "src": "../images/Group 99.svg",
+        "label": "Settings"
+    }
+}

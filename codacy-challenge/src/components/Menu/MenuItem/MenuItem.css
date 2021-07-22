@@ -1,0 +1,28 @@
+.MenuItem {
+    width: 79px;
+    text-align: center;
+    padding-top: 21.46px;
+    padding-bottom: 21.46px;
+    cursor: pointer;
+    font: normal normal normal 11px/13px Clear Sans;
+    letter-spacing: 0px;
+    color: #4C6083;
+    opacity: 1;
+}
+
+.IconMenu {
+    display: block;
+    margin: auto;
+    opacity: 1;
+}
+
+.LabelIcon {
+    margin-top: 6.43px;
+    color: #4C6083;
+    font-size: 11px;
+    display: inline-block;
+}
+
+.MenuItem:hover {
+    font-weight: bold !important;
+}

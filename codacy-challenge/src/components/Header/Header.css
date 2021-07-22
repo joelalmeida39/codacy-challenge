@@ -1,0 +1,89 @@
+.Header {
+    top: 0px;
+    left: 0px;
+    width: 1372px;
+    height: 63px;
+    background: #0E1E35 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.Logo {
+    padding-top: 14.5px;
+    padding-left: 28px;
+    width: 34px;
+    height: 34px;
+    opacity: 1;
+}
+
+.UrlSearchLabel {
+    position: absolute;
+    top: 23px;
+    left: 241px;
+    width: 101px;
+    height: 19px;
+    text-align: left;
+    font: normal normal normal 14px/20px Clear Sans;
+    letter-spacing: 0.35px;
+    color: #E5ECF5;
+    opacity: 1;
+}
+
+.UrlSearchInput {
+    position: absolute;
+    top: 14px;
+    left: 366px;
+    padding: 6.5px 0 6.5px 16px;
+    width: 484px;
+    border: 1px solid #4C6083;
+    border-radius: 3px;
+    opacity: 1;
+    background-color: #0E1E35;
+    color: #C9D8EF;
+    line-height: 20px;
+    font-size: 14px;
+}
+
+.UrlSearchInputError {
+    position: absolute;
+    top: 14px;
+    left: 366px;
+    padding: 6.5px 0 6.5px 16px;
+    width: 484px;
+    border: 1px solid red;
+    border-radius: 3px;
+    opacity: 1;
+    background-color: #0E1E35;
+    color: red;
+    line-height: 20px;
+    font-size: 14px;
+}
+
+::placeholder {
+    color: #C9D8EF;
+    margin-left: 16px;
+    font: normal normal normal 14px/20px Clear Sans;
+    letter-spacing: 0.35px;
+}
+
+.ButtonLoadCommits {
+    position: absolute;
+    top: 15px;
+    left: 875px;
+    width: 126px;
+    height: 34px;
+    background: #2A6CFF 0% 0% no-repeat padding-box;
+    box-shadow: 3px #2A6CFF4D;
+    border-radius: 3px;
+    opacity: 1;
+    font-weight: bold;
+    letter-spacing: 0.07px;
+    color: #FFFFFF;
+    text-align: center;
+    cursor: pointer;
+    border-color: #2A6CFF;
+}
+
+textarea:focus, input:focus {
+    color: #C9D8EF;
+    border-color: #2A6CFF;
+}

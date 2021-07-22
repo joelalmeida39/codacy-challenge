@@ -1,0 +1,17 @@
+@import url('https://fontlibrary.org//face/clear-sans');
+
+.App {
+  width: 1372px;
+  height: 767px;
+}
+
+.Body {
+  height: 704px;
+}
+
+input:focus{
+  outline: none
+}
+  
+
+
